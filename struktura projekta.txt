@@ -1,0 +1,15 @@
+projekt/
+│
+├── index.html
+├── o-nama.html
+├── usluge.html
+├── kontakt.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── img/
+    └── salon.jpg
